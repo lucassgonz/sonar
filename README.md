@@ -73,10 +73,10 @@ For individuals, this is frustrating. [cite_start]For companies, it represents a
 
 ## 👥 The Team
 
-* [cite_start]Abdul Rehman Afroze [cite: 4]
-* [cite_start]Lucas Gonzaga [cite: 4]
-* [cite_start]Imran Matin [cite: 4]
-* [cite_start]Ayanfeoluwa [cite: 4]
+* Abdul Rehman Afroze 
+* Lucas Gonzaga 
+* Imran Matin 
+* Ayanfeoluwa
 
 ---
 
