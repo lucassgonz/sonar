@@ -1,0 +1,19 @@
+project_id = "iunpczripjohdqaytlxv"
+
+[functions.import-github-skills]
+verify_jwt = false
+
+[functions.parse-cv]
+verify_jwt = false
+
+[functions.match-job]
+verify_jwt = false
+
+[functions.edit-skill]
+verify_jwt = false
+
+[functions.delete-skill]
+verify_jwt = false
+
+[functions.get-profile]
+verify_jwt = true
