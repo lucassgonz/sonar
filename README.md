@@ -71,6 +71,10 @@ For individuals, this is frustrating. [cite_start]For companies, it represents a
     ```
     The app will be accessible at `http://localhost:3000`
 
+## Demo Video
+
+   https://www.loom.com/share/9ffbb57d1df74f0b981e30e7beb6fa10
+
 ## 👥 The Team
 
 * Abdul Rehman Afroze 
